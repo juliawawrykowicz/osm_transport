@@ -17,5 +17,7 @@ dependencies:
   - plotly
   - requests
   - voila
-  - osm2geojson
   - requests-cache
+  - pip:
+    - osm2geojson
+    
