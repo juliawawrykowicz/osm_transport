@@ -1,0 +1,21 @@
+name: transport
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - osmnx
+  - iso3166
+  - ipywidgets
+  - ipyleaflet
+  - ipykernel
+  - jupyter-flex
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - requests
+  - voila
+  - osm2geojson
+  - requests-cache
